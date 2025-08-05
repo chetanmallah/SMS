@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Default SMS App</string>
+    <string name="action_settings">Settings</string>
+    <string name="compose_message">Compose Message</string>
+    <string name="send">Send</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="type_message">Type your message...</string>
+    <string name="no_messages">No messages found</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="sms_permission_message">This app needs SMS permissions to function properly.</string>
+    <string name="default_sms_title">Set as Default SMS App</string>
+    <string name="default_sms_message">To receive and send SMS messages, this app needs to be set as your default SMS app.</string>
+    <string name="grant">Grant</string>
+    <string name="cancel">Cancel</string>
+    <string name="set_default">Set Default</string>
+    <string name="exit">Exit</string>
+    <string name="sms_sent">SMS sent successfully</string>
+    <string name="sms_failed">SMS sending failed</string>
+    <string name="sms_delivered">SMS delivered</string>
+    <string name="sms_not_delivered">SMS not delivered</string>
+    <string name="enter_phone_number">Please enter a phone number</string>
+    <string name="enter_message">Please enter a message</string>
+    <string name="new_sms_from">New SMS from %s</string>
+    <string name="sim_card">SIM Card:</string>
+    <string name="default_sim">Default SIM</string>
+</resources>
